@@ -19,6 +19,7 @@ class BiSQLViewField(models.Model):
         ("date", "date"),
         ("datetime", "datetime"),
         ("float", "float"),
+        ("html", "html"),
         ("integer", "integer"),
         ("many2one", "many2one"),
         ("selection", "selection"),
